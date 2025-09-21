@@ -17,5 +17,4 @@ Requirments
 - xgboost
 - lightgbm
 
-All models are saved with their threshholds:
 
